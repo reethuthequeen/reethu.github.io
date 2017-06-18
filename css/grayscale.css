@@ -38,6 +38,12 @@ p {
     line-height: 1.5;
 }
 
+.mainfont {
+    margin: 0 0 25px;
+    font-size: 18px;
+}
+
+
 @media (min-width: 768px) {
     p {
         margin: 0 0 35px;
